@@ -16,6 +16,10 @@ BuildRequires: perl(MooseX::Getopt)
 BuildRequires: perl(Test::More)
 BuildRequires: perl(WWW::Mechanize)
 BuildRequires: perl(Config::INI::Reader)
+BuildRequires: perl(WWW::Pastebin::PastebinCom::Create)
+BuildRequires: perl(Browser::Open)
+BuildRequires: perl(Clipboard)
+BuildRequires: perl(Config::GitLike)
 BuildArch: noarch
 BuildRoot:  %{_tmppath}/%{name}-%{version}
 
