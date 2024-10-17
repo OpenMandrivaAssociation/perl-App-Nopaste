@@ -7,7 +7,7 @@ Release:	4
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Easy access to any pastebin
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/App/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
